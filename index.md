@@ -15,6 +15,6 @@ According to the same blog post, to really have an accessible app it means "... 
 
 [Text Accessibility](text.md)
 
-[Testing iOS](testing-ios.md)
+[Testing iOS](test-ios.md)
 
-[Testing Android](testing-android.md)
+[Testing Android](test-android.md)
