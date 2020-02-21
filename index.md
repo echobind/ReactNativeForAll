@@ -18,3 +18,10 @@ According to the same blog post, to really have an accessible app it means "... 
 [Testing iOS](test-ios.md)
 
 [Testing Android](test-android.md)
+
+
+
+<div style="text-align:center">
+<a href="https://blog.echobind.com/tagged/react-native"><img src="./images/eb-gradient.svg" /><br/>
+<h3>Check out our latest React Native blog posts</h3></a></div>
+
